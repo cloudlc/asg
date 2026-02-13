@@ -1,0 +1,16 @@
+.DS_Store
+.DS_store
+.idea
+__pycache__
+.vscode
+**/logs/
+**/output/
+**/weights/
+**/__pycache__/
+.*/
+**/tmp?.py
+**/tensorboard/
+**/bak/
+**/upload/*
+**/timm/*
+**/*.log
